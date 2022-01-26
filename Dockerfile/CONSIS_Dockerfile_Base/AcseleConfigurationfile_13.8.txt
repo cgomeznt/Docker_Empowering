@@ -58,7 +58,7 @@ email.send.address.development=acsele.development@consisint.com
 mailServer=mail.consisint.com
 mailPort=2525
 acsele.email.smtp.account.username=acsele.development@consisint.com
-acsele.email.smtp.account.password=1234567
+
 administratorEmail=info@consisint.com
 
 #<Email Util/>
@@ -72,7 +72,7 @@ administratorEmail=info@consisint.com
    
 
 
-# Setting of product´s database pool connections   (CA.xml,MX.xml,etc. )
+# Setting of productÂ´s database pool connections   (CA.xml,MX.xml,etc. )
 minPoolSize=10
 maxPoolSize=50
 maxIdleTime=240
@@ -80,7 +80,7 @@ acquireIncrement=10
 maxStatementsPerConnection=100
 
 
-# Setting of global´s pool connections   (ApplicationContext.xml) 
+# Setting of globalÂ´s pool connections   (ApplicationContext.xml) 
 guMinPoolSize=5
 guMaxPoolSize=20
 guMaxIdleTime=240
